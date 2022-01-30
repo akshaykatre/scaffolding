@@ -1,4 +1,4 @@
-name: Python test file for CI
+name: Python test file for CI on AWS 
 
 on: [push]
 
