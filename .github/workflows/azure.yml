@@ -1,4 +1,4 @@
-name: Python test file for CI on AWS 
+name: Python test file for CI on Azure
 
 on: [push]
 
